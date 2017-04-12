@@ -7,8 +7,7 @@ https://www.dzher.de
 
 
 最新优惠信息
-[华为P10 64GB LTE最新旗舰智能手机原价559欧，返现活动，折后459欧！ ]: https://www.dzher.de/deals/10000134
+华为P10 64GB LTE最新旗舰智能手机原价559欧，返现活动，折后459欧！: https://www.dzher.de/deals/10000134
 
 
-访问[website][] 查看更多优惠信息。
-[website]: https://www.dzher.de
+访问网站查看更多优惠信息:https://www.dzher.de
